@@ -1,0 +1,3 @@
+/users/guest/p/p90782/cmake-build-debug-schizobyucs/CMakeFiles/rebuild_cache.dir
+/users/guest/p/p90782/cmake-build-debug-schizobyucs/CMakeFiles/edit_cache.dir
+/users/guest/p/p90782/cmake-build-debug-schizobyucs/CMakeFiles/CS236Project.dir
