@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Schizo (BYUCS) (07b3ba72-69a1-45bc-a27b-03d0fbbd67f7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.K7OjiEK3ff" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-schizo-byucs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/Lab1/cmake-build-debug-schizo-byucs" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

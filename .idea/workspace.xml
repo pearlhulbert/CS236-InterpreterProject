@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Schizo (BYUCS)" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Schizo (BYUCS)" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="918735e7-1e20-4b92-8e7f-180e2bc825c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makefile_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-0-main.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xmkscS0z31UCZkSwspojrDsRe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab1/CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="matchTest.txt" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/Lab1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Lab1" CONFIG_NAME="Debug-Schizo (BYUCS)" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Lab1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918735e7-1e20-4b92-8e7f-180e2bc825c5" name="Changes" comment="" />
+      <created>1630967858839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630967858839</updated>
+      <workItem from="1630967861512" duration="1846000" />
+      <workItem from="1630969713598" duration="6000" />
+      <workItem from="1630969737377" duration="2987000" />
+      <workItem from="1631077713859" duration="322000" />
+      <workItem from="1631078623664" duration="1311000" />
+      <workItem from="1631113504198" duration="1622000" />
+      <workItem from="1631121429719" duration="541000" />
+      <workItem from="1631222629973" duration="30000" />
+      <workItem from="1631223465198" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Lab1/MatcherAutomaton.h</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Lab1/main.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Lab1/main.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
