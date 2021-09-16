@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/p/p90782/Book.cpp
+string
+-
+sstream
+-
+Book.h
+/users/guest/p/p90782/Book.h
+
+/users/guest/p/p90782/Book.h
+string
+-
+iostream
+-
+
