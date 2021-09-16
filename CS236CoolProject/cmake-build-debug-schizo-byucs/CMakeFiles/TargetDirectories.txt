@@ -1,0 +1,3 @@
+/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles/edit_cache.dir
+/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles/rebuild_cache.dir
+/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles/CS236CoolProject.dir

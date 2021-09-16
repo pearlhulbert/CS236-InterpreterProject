@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CS236CoolProject.dir/main.cpp.o  -o CS236CoolProject 

@@ -1,0 +1,9 @@
+::-
+. , ? !
+#| two
+ line block comment
+#line comment
+'this string
+is
+a
+pain
