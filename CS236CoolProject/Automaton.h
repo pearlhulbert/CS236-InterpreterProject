@@ -36,6 +36,10 @@ public:
         return inputRead;
     }
 
+    TokenType GetType() const {
+        return type;
+    }
+
     void SetType(TokenType tokenType) {
         type = tokenType;
     }

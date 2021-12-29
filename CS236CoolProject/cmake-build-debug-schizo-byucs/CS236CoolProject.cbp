@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs"/>
+				<Option working_dir="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs"/>
+				<Option working_dir="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs"/>
+				<Option working_dir="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CS236CoolProject">
-				<Option output="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CS236CoolProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs"/>
+				<Option output="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/CS236CoolProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 CS236CoolProject"/>
-					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 CS236CoolProject"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CS236CoolProject/fast">
-				<Option output="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CS236CoolProject" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs"/>
+				<Option output="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/CS236CoolProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,80 +75,113 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 CS236CoolProject/fast"/>
-					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 CS236CoolProject/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/AddAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/AddAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/Automaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Automaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/BlockComment.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/BlockComment.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/ColonAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/ColonAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/ColonDashAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/ColonDashAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/CommaAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/CommaAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/FactsAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/DataBase.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/IDAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/DatalogProgram.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/LeftParenAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/FactsAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/Lexer.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Graph.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/LineCommentAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Header.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/MultiplyAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/IDAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/PeriodAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Interpreter.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/Queries.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/LeftParenAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/QuestionMarkAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Lexer.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/RightParenAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/LineCommentAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/RulesAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/MultiplyAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/Schemes.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Parameter.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/StringAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Parser.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/Token.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/PeriodAutomaton.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/UndefinedAutomaton.h">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Predicate.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/main.cpp">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Queries.h">
 			<Option target="CS236CoolProject"/>
 		</Unit>
-		<Unit filename="/users/guest/p/p90782/CS236/Store236/CMakeLists.txt">
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/QuestionMarkAutomaton.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Relation.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/RightParenAutomaton.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Rule.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/RulesAutomaton.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Schemes.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/StringAutomaton.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Token.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/Tuple.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/UndefinedAutomaton.h">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/main.cpp">
+			<Option target="CS236CoolProject"/>
+		</Unit>
+		<Unit filename="/users/guest/p/p90782/CS236Project/CS236/Store236/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

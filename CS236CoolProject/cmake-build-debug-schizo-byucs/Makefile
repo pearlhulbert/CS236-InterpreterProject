@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /users/guest/p/p90782/CS236/Store236
+CMAKE_SOURCE_DIR = /users/guest/p/p90782/CS236Project/CS236/Store236
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs
+CMAKE_BINARY_DIR = /users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles /users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles /users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

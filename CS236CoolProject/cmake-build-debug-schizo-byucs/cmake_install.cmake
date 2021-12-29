@@ -1,4 +1,4 @@
-# Install script for directory: /users/guest/p/p90782/CS236/Store236
+# Install script for directory: /users/guest/p/p90782/CS236Project/CS236/Store236
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/users/guest/p/p90782/CS236/Store236/cmake-build-debug-schizo-byucs/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/users/guest/p/p90782/CS236Project/CS236/Store236/cmake-build-debug-schizo-byucs/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

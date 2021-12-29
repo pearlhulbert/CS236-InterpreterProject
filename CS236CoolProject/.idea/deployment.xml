@@ -5,7 +5,7 @@
       <paths name="Schizo (BYUCS) (07b3ba72-69a1-45bc-a27b-03d0fbbd67f7)">
         <serverdata>
           <mappings>
-            <mapping deploy="CS236/Store236" local="$PROJECT_DIR$" />
+            <mapping deploy="CS236Project/CS236/Store236" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />

@@ -24,27 +24,11 @@ public:
         }
         if (match) {
             inputRead = matchString.size();
-            ++newLines;
         }
         else {
             Serr();
         }
     }
-
-    /*friend std::ostream& operator<<(std::ostream& os, const Automaton& autom)
-    {
-        os << autom.toString();
-        return os;
-    }
-
-    std::string toString() const
-    {
-        std::stringstream ss;
-
-        std::string returnString = ss.str();
-        returnString.pop_back();
-        return returnString;
-    }*/
 
 };
 

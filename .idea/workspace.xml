@@ -13,24 +13,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="918735e7-1e20-4b92-8e7f-180e2bc825c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/answer5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project0/Lab0PassOffCases/input5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makefile_0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-0-main.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/AddAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/Automaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/BlockComment.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/ColonAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/ColonDashAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/CommaAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/FactsAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/IDAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/LeftParenAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/Lexer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/LineCommentAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/MatcherAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/MultiplyAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/PeriodAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/Queries.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/QuestionMarkAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/RightParenAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/RulesAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/Schemes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/StringAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/Token.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/UndefinedAutomaton.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS236CoolProject/matcherTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automaton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/cmake-build-debug-schizo-byucs/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lexer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatcherAutomaton.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Token.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-100/answer1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-100/answer2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-100/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-100/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answer7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/answernoway.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/input7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-70/inputnoway.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/answer1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/answer2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/answer3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/Lab1PassOffCases/1-90/input3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +134,8 @@
       <workItem from="1631121429719" duration="541000" />
       <workItem from="1631222629973" duration="30000" />
       <workItem from="1631223465198" duration="4000" />
+      <workItem from="1631224747848" duration="25000" />
+      <workItem from="1631749531662" duration="22000" />
     </task>
     <servers />
   </component>

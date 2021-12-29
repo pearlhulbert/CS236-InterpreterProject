@@ -7,6 +7,7 @@
 #include <vector>
 #include <sstream>
 #include <iostream>
+#include <iterator>
 #include "Automaton.h"
 #include "Token.h"
 #include "ColonAutomaton.h"
@@ -26,7 +27,6 @@
 #include "StringAutomaton.h"
 #include "LineCommentAutomaton.h"
 #include "BlockComment.h"
-//#include "UndefinedAutomaton.h"
 
 class Lexer
 {
@@ -53,13 +53,10 @@ private:
         automata.push_back(new StringAutomaton());
         automata.push_back(new LineCommentAutomaton());
         automata.push_back(new BlockComment());
-        //automata.push_back(new UndefinedAutomaton());
     }
 
-    // TODO: add any other private methods here (if needed)
 
 public:
-    // TODO: add other public methods here
 
     Lexer() {
         CreateAutomata();
@@ -71,10 +68,14 @@ public:
         }
         automata.clear();
 
-        for (unsigned int i = 0; i < tokens.size(); ++i) {
+        /*for (unsigned int i = 0; i < tokens.size(); ++i) {
             delete tokens.at(i);
         }
-        tokens.clear();
+        tokens.clear();*/
+    }
+
+    std::vector<Token*> getInputTokens() {
+        return tokens;
     }
 
     void Run(std::string& input) {
@@ -109,6 +110,10 @@ public:
                 if (!maxAutomaton->isValidToken()) {
                     maxAutomaton->SetType(TokenType::UNDEFINED);
                 }
+                if (maxAutomaton->GetType() == TokenType::COMMENT) {
+                    input.erase(0,maxRead);
+                    continue;
+                }
                 std::string createTokenString = input;
                 createTokenString.resize(maxRead);
                 newToken = maxAutomaton->CreateToken(createTokenString, lineNumber);
@@ -131,14 +136,6 @@ public:
         tokens.push_back(newToken);
     }
 
-    void EndOfFile() {
-        int line = tokens.at(tokens.size() - 1)->GetLine();
-        //line = line + 1;
-        Token* end = new Token(TokenType::EOFILE, "", line);
-        tokens.push_back(end);
-    }
-
-
     friend std::ostream& operator<<(std::ostream& os, const Lexer& lex)
     {
         os << lex.toString();
@@ -148,10 +145,10 @@ public:
     std::string toString() const
     {
         std::stringstream ss;
-        for (unsigned int i = 0; i < tokens.size(); ++i) {
+        for (size_t i = 0; i < tokens.size(); ++i) {
             ss << tokens.at(i)->toString();
         }
-        ss << "Total Tokens = " << tokens.size() << std::endl;
+        ss << "Total Tokens = " << tokens.size();
         std::string returnString;
         returnString = ss.str();
         return returnString;

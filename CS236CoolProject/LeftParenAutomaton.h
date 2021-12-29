@@ -24,7 +24,6 @@ public:
         }
         if (match) {
             inputRead = matchString.size();
-            ++newLines;
         }
         else {
             Serr();

@@ -48,6 +48,7 @@ private:
 
     void S4(const std::string& input) {
         if (input.at(index) == '#') {
+            commentString += input.at(index);
             currState = 9;
         }
         else {
@@ -109,6 +110,9 @@ public:
         }
         if (!validToken) {
             currState = 8;
+            if (input.at(index-1) == '\n') {
+                ++newLines;
+            }
             inputRead = commentString.size();
         }
 

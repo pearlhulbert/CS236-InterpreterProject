@@ -3,6 +3,8 @@
 #include<fstream>
 #include<sstream>
 #include "Lexer.h"
+#include "Parser.h"
+#include "Interpreter.h"
 using namespace std;
 
 int main(int argc, char* argv[]) {
@@ -25,9 +27,16 @@ int main(int argc, char* argv[]) {
 
     Lexer* lexer = new Lexer();
     lexer->Run(line);
-    //lexer->EndOfFile();
-    cout << lexer->toString();
+    //cout << lexer->toString() << endl;
+    vector<Token*> newInput = lexer->getInputTokens();
+    Parser* data = new Parser(newInput);
+    data->parseAll();
+    DataLogProgram* datalogP = data->getDataLog();
+    Interpreter* interpreter = new Interpreter(datalogP);
+    //cout << data->toString();
+    interpreter->interpret();
+    //cout << interpreter->toString();
     delete lexer;
-
+    delete data;
     return 0;
 }

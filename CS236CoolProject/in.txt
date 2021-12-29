@@ -1,0 +1,5 @@
+Schemes:
+  #student(N, I, A, M)
+student(N, I, A, M)
+  #WhoMajor(N,M)
+WhoMajor(N,M)
