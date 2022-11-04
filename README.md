@@ -1,2 +1,2 @@
-# Interpreter
-This project is a datalog interpreter which can take 
+# Interpreter (CS236CoolProject)
+This project is a datalog interpreter which can take in a text file containing schemes (formatted like functions), facts (putting actual values as parameters in these schemes), rules, and queries. Based on these, my program outputs (to stdout) a dependency graph, rule evaluation (including strongly connected components) and query evaluation. See Lab5TestCases for examples of these test cases. The Lexer takes the input and creates tokens. These tokens are then parsed and sturctured by the Parser. The Interpreter does the bulk of the work; it does the actual rule and query evaluation. 
